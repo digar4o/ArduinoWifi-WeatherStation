@@ -1,0 +1,4 @@
+Some Arduino libs are needed which cannot be supplied here, due to liscensing issues.
+
+DHT22 Library can be downloaded at: http://playground.arduino.cc/Main/DHTLib
+BMP185 Library can be downloaded at: https://learn.sparkfun.com/tutorials/bmp180-barometric-pressure-sensor-hookup-/installing-the-arduino-library
